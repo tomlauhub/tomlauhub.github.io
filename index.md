@@ -6,6 +6,10 @@ https://tomlauhub.github.io
 
 https://tomlauhub.github.io/
 
+lookph://asdsadsadasdsad/ad
+
+lookph://orderConfirm/
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
